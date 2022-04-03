@@ -16,7 +16,7 @@ solutions = []
 for s in range(1000):
     solutions.append((random.uniform(0,10000),
                     random.uniform(0,10000),
-                    random.uniform(0,10000))) # Hi
+                    random.uniform(0,10000))) # Hiii
 
 for i in range(10000):
     rankedsolutions = []
